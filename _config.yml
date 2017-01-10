@@ -12,15 +12,14 @@ highlighter: rouge
 
 permalink: /:year/:month/:title.html
 relative_permalinks: false
-url: https://221bc.github.io/
+url: https://getAbchin.github.io/
 #url: http://localhost:2106
 #port: 2106
 #baseurl: /project-name
-name: abchin
+name: ab:chin
 timezone: Aisa/Beijing
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
-title : abchin
-tagline: love Github repositories
+title : ab:chin
 author :
-  name : abchin
+  name : ab:chin
