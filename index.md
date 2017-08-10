@@ -1,5 +1,5 @@
 ---
 ---
-## This site will be open soon.
+## Sal et lux.
 
 ![Coming soon](/images/coming soon.jpg)
