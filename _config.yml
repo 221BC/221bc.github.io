@@ -12,7 +12,7 @@ highlighter: rouge
 
 permalink: /:year/:month/:title.html
 relative_permalinks: false
-url: https://guoyang.github.io/
+url: https://getAbchin.github.io/
 #url: http://localhost:2106
 #port: 2106
 #baseurl: /project-name
